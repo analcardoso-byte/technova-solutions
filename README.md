@@ -18,12 +18,12 @@ Projeto desenvolvido para a Avaliação Somativa de Desenvolvimento Front-End (*
 
 ```text
 technova-analaura/
-├── index.html          # Estrutura semântica completa em HTML5 (Sprint 1)
-├── wireframe.png       # Planejamento visual inicial do layout
-├── README.md           # Documentação técnica do projeto
+├── index.html          
+├── wireframe.png       
+├── README.md           
 ├── css/
-│   └── style.css       # Folha de estilos, responsividade e animações (Sprint 2)
-└── img/                # Imagens otimizadas em formato WebP
+│   └── style.css      
+└── img/               
     ├── cloud.webp
     ├── ia.webp
     ├── seguranca.webp
