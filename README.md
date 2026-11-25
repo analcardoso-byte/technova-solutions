@@ -17,7 +17,7 @@ Projeto desenvolvido para a Avaliação Somativa de Desenvolvimento Front-End (*
 ## 📂 Arquitetura de Pastas
 
 ```text
-technova-maria/
+technova-analaura/
 ├── index.html          # Estrutura semântica completa em HTML5 (Sprint 1)
 ├── wireframe.png       # Planejamento visual inicial do layout
 ├── README.md           # Documentação técnica do projeto
